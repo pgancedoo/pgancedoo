@@ -29,7 +29,7 @@
 
 ### Design
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,au,lr,ai,xd,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pr,ae,au,ai,ps,xd,figma)](https://skillicons.dev)
 
 ### Devops
 
