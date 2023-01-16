@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @pgancedoo
 - 👀 I’m interested in web-dev 🤖, motorsports 🏎️, and audiovisual 🎥.
 - 🌱 I’m learning Web development and networking.
-- 🔧 I'm currently working on video producer as a camera and editor ✌🏻.
+- 🔧 I'm currently working on video production company as a cameraman and editor ✌🏻.
 
 
 ## Tech Stack
