@@ -36,3 +36,11 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github)](https://skillicons.dev)
 
 ## Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgancedoo&langs_count=6&theme=dracula&layout=compact&hide_border=true"
+          alt="pgancedoo :: overall Top Langs " />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pgancedoo&theme=dracula&layout=compact&hide_border=true"
+          alt="pgancedoo :: Top Langs by commit" />
+<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pgancedoo&theme=dracula"
+          alt="pgancedoo:: Stats" />
