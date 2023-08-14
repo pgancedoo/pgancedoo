@@ -1,6 +1,5 @@
 # Pablo Gancedo
 
-<img src="https://gpvc.arturio.dev/pgancedoo" alt="Profile views" align='right'/>
 
 - 👋 Hi, I’m @pgancedoo
 - 👀 I’m interested in web-dev 🤖, motorsports 🏎️, and audiovisual 🎥.
