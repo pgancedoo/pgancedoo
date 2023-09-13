@@ -22,7 +22,7 @@
 ### Backend & Programming
  
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,php,larevel,symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,php,laravel,symfony)](https://skillicons.dev)
 
 </span>
 
