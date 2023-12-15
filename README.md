@@ -13,7 +13,7 @@
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind)](https://skillicons.dev)
 
 </span>
 <span width="45%">
@@ -22,7 +22,7 @@
 ### Backend & Programming
  
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,php,laravel,symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,php,laravel)](https://skillicons.dev)
 
 </span>
 
@@ -32,7 +32,7 @@
 
 ### Devops
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github,vercel,vite,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github,vercel,vite,wordpress,nginx,)](https://skillicons.dev)
 
 ## Stats
 
