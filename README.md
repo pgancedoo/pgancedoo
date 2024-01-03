@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @pgancedoo
 - 👀 I’m interested in web-dev 🤖, motorsports 🏎️, and audiovisual 🎥.
 - 🌱 I’m learning Web development and networking.
-- 🔧 I'm currently working on video production company as a cameraman and editor ✌🏻.
+- 🔧 I am currently working in a managed server and web development company.✌🏻.
 
 
 ## Tech Stack
@@ -13,7 +13,7 @@
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind)](https://skillicons.dev)
 
 </span>
 <span width="45%">
